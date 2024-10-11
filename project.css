@@ -1056,7 +1056,7 @@ body {
         margin: 20px;
     }
     .siide{
-        
+        width: 100%;
         margin: 20px;
     }
     .rounded-image{
@@ -1067,7 +1067,7 @@ body {
         display: none;
     }
     .inquiry-container{
-        max-width: 80%;
+        max-width: 88%;
         margin: 20px;
     }
     .welcome img{
