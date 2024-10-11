@@ -1177,6 +1177,12 @@ body {
         justify-content: space-around;
         padding: 20px;
     }
+    im{
+        margin: 20px;
+        width: 60%
+        width: 100px;
+        height: 100px;
+    }
 
 
 }
