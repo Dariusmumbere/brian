@@ -1052,12 +1052,12 @@ body {
         color: blueviolet;
     }
     .side{
-        width: 100%;
-        margin: 10px;
+    
+        margin: 20px;
     }
     .siide{
-        max-width: 100%;
-        margin: 10px;
+        
+        margin: 20px;
     }
     .rounded-image{
         display: none;
@@ -1067,7 +1067,7 @@ body {
         display: none;
     }
     .inquiry-container{
-        max-width: 100%;
+        max-width: 80%;
         margin: 20px;
     }
     .welcome img{
