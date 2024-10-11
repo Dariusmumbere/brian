@@ -1183,6 +1183,10 @@ body {
         width: 100px;
         height: 100px;
     }
+    .collapsible-container{
+        width: 400px;
+        margin: 20px;
+    }
 
 
 }
