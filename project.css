@@ -1081,7 +1081,7 @@ body {
         max-width: 100%;
     }
     .collapsible-container{
-        width: 400px;
+        width: 300px;
     }
     .mentors{
         margin: 20px;
@@ -1183,10 +1183,7 @@ body {
         width: 100px;
         height: 100px;
     }
-    .collapsible{
-        width: 400px;
     
-    }
 
 
 }
