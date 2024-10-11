@@ -1171,6 +1171,12 @@ body {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
     }
+    .contact-section {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        justify-content: space-around;
+        padding: 20px;
+    }
 
 
 }
