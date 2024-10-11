@@ -1056,9 +1056,9 @@ body {
         margin: 20px;
     }
     .siide{
-        font-size: 24px;
+        font-size: 14px;
         margin: 20px;
-        width: 100%;
+        max-width: 100%;
     }
     .rounded-image{
         display: none;
