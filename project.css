@@ -705,9 +705,7 @@ fieldset{
 .siide{
     font-size: 120%;
     margin left: 20px;
-    width: 60%;
     margin: 40px;
-    text-align: justify;
     position: relative;
     opacity: 0;
     transform: translateY(100%); /* Start from the bottom */
